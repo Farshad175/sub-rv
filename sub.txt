@@ -2,9 +2,18 @@
 PrivateKey = eK4ZEacjeHsEgkD3IWAY4kGUl8yxXMPEr8jrYZ0tw1M=
 Address = 10.104.2.210/32
 DNS = 1.1.1.1, 8.8.8.8
-
 [Peer]
 PublicKey = 26kgTMAJsQmfCVu/2m6T+X1CCjl07EeBUHzBwulFPHo=
 Endpoint = 5.196.64.231:25018
+AllowedIPs = 0.0.0.0/0, ::/0
+PersistentKeepalive = 25
+
+[Interface]
+PrivateKey = gOi1dQHlvk+dFG/N+fdrcCy6Aoww2EiuOt2SkW+qvlk=
+Address = 10.104.7.40/32
+DNS = 1.1.1.1, 8.8.8.8
+[Peer]
+PublicKey = Fwt2sU9t7zRQye4BP/5IsO3dZjvRVR5hO5JD+6JFAEs=
+Endpoint = 51.75.145.20:25018
 AllowedIPs = 0.0.0.0/0, ::/0
 PersistentKeepalive = 25

@@ -1,9 +1,9 @@
-[Interface]
-PrivateKey = eK4ZEacjeHsEgkD3IWAY4kGUl8yxXMPEr8jrYZ0tw1M=
-Address = 10.104.2.210/32
-DNS = 1.1.1.1, 8.8.8.8
-[Peer]
-PublicKey = 26kgTMAJsQmfCVu/2m6T+X1CCjl07EeBUHzBwulFPHo=
-Endpoint = 5.196.64.231:25018
-AllowedIPs = 0.0.0.0/0, ::/0
-PersistentKeepalive = 25
+wireguard://KEyaNFtPBsqFnZG3Cvd4t62HE5ugB%2FOtEZeqvIVjDU4%3D@145.239.255.68:25018?publickey=TMGRzMA3dim95ClL5uVDkkrhNtxLrSPXbLf%2BT%2BDc2DA%3D&address=10.104.2.55%2F32&mtu=1280#UK2
+wireguard://EOaSReJNuqSkyAn%2B%2F3bM5RppT%2FKsVqW5zsUBHM54nk4%3D@51.75.145.20:25018?publickey=Fwt2sU9t7zRQye4BP%2F5IsO3dZjvRVR5hO5JD%2B6JFAEs%3D&address=10.104.8.48%2F32&mtu=1280#DE1
+wireguard://4JlpGvnT3Oy6ouzVPbAwgB5DuWcZeXOxysQK9JWly3Q%3D@51.75.145.220:25018?publickey=fiaaxr%2Br00sgq9RByIekr7HrNh4UJbH1JU7Q1vc6gkc%3D&address=10.104.0.199%2F32&mtu=1280#DE2
+wireguard://OOj5aWXNP7GfuZbMSlMC1PD%2FZzz0axVPlc%2FDnxyGPWg%3D@5.196.64.231:25018?publickey=26kgTMAJsQmfCVu%2F2m6T%2BX1CCjl07EeBUHzBwulFPHo%3D&address=10.104.3.24%2F32&mtu=1280#Fr2
+wireguard://4BNh4Q3ndJBkYby7f3nlmfTD9Ogtkta7AMx5WL8LdVI%3D@147.135.15.16:25018?publickey=YLaLJahXZ6NuASXQLPl0eUPVAypirpaLuuO7tZa2bmo%3D&address=10.104.6.203%2F32&mtu=1280#US1
+wireguard://oIpiUFOZlH4RQLmwqhX8Bzkk7EHlZDAt1ktpwcJVxEI%3D@147.135.37.178:25018?publickey=Rn6w1t6actF9XC0bMIXxO25rf31uFqm2%2Fn5sYyK1UzQ%3D&address=10.104.3.59%2F32&mtu=1280#US2
+wireguard://uHFnBzSodOXfQ26I0akKVB7jv2KMfZQNw1150QYdQ1Q%3D@144.217.253.149:25018?publickey=Iq0kTIp79YgI45%2BvVMOTfYZSbydVUoLnNe0mt88CViI%3D&address=10.104.0.174%2F32&mtu=1280#CA1
+wireguard://EHusQ5H5IyBnK%2FTnlGcyWR%2FSFEQIClpETqoEpkyda3U%3D@142.4.216.196:25018?publickey=Mop45Icu1QOf7eq2x0xc2hzyO0cDEq7LGL35nYt7d2Q%3D&address=10.104.1.64%2F32&mtu=1280#CA2
+wireguard://EKgaoeqnmRxiSdUQTsSSrXDBum9uR4JO0yiAOOT002o%3D@145.239.252.205:25018?publickey=6g4c4GzMulIPJjkX8iYgf%2FETE9VCXCUSeEIa9wer2x0%3D&address=10.104.2.34%2F32&mtu=1280#UK1
